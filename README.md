@@ -1,2 +1,3 @@
 # hello-world
-hello! this is just my first time using this site
+Hello Humans! I am Ivan, I like Learning new things and discovering new knowledge
+
